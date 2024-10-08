@@ -1,0 +1,44 @@
+.one{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifs;
+    background: transparent;
+    font-size: larger;
+
+}
+.zero{
+    background-image: linear-gradient(#000000,#320038,#43004b,#770085,#9000a0,#a400b6,) ;
+}
+.two{
+    height: 30pxpx;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifs;
+    background: transparent;
+}
+.material-symbols-outlined{
+    height: 30pxpx;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    size: 40px;
+    background: transparent;
+}
+.four{
+    height: 1000px;
+}
+.three{
+    height: 30pxpx;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifs;
+    background: transparent;
+}
